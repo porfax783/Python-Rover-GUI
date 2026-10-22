@@ -2,3 +2,4 @@ GUI for the mars rover project EN2750
 
 Dependencies:
 qt6
+arduino-cli
